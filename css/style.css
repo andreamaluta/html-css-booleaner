@@ -31,3 +31,11 @@ main{
 .description{
     font-size: 10px;
 }
+
+.spaziatura{
+    padding-top: 10px;
+}
+
+.lista{
+    margin: 10px;
+}
