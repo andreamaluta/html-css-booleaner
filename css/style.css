@@ -39,3 +39,16 @@ main{
 .lista{
     margin: 10px;
 }
+
+.prime-colonne{
+    width: 25%;
+}
+
+.table-title{
+    background-color: rgb(25, 106, 212);
+    color: aliceblue;
+}
+
+.table-raw{
+    background-color: aqua;
+}
